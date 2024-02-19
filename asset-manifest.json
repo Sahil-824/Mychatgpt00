@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Mychatgpt00/static/css/main.096932df.css",
+    "main.js": "/Mychatgpt00/static/js/main.c3a42fda.js",
+    "static/js/453.3bd27771.chunk.js": "/Mychatgpt00/static/js/453.3bd27771.chunk.js",
+    "static/media/chatgptlogo2.png": "/Mychatgpt00/static/media/chatgptlogo2.917e91e9f7f7af851304.png",
+    "static/media/chatgptlogo.png": "/Mychatgpt00/static/media/chatgptlogo.b6f83f6fe79703056ee2.png",
+    "static/media/nouserlogo.png": "/Mychatgpt00/static/media/nouserlogo.74a0b6854f3a541e398e.png",
+    "index.html": "/Mychatgpt00/index.html",
+    "main.096932df.css.map": "/Mychatgpt00/static/css/main.096932df.css.map",
+    "main.c3a42fda.js.map": "/Mychatgpt00/static/js/main.c3a42fda.js.map",
+    "453.3bd27771.chunk.js.map": "/Mychatgpt00/static/js/453.3bd27771.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.096932df.css",
+    "static/js/main.c3a42fda.js"
+  ]
+}
