@@ -7,7 +7,7 @@ import nouserlogo from '../assets/nouserlogo.png'
 
 
 
-const openAiAPI = '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'
+const openAiAPI = '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'
 
 const RightSection = () => {
     const [message, setMessage] = useState('')
