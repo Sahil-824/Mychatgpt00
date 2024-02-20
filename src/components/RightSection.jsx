@@ -7,7 +7,7 @@ import nouserlogo from '../assets/nouserlogo.png'
 
 
 
-const openAiAPI = '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'
+const openAiAPI = process.env.local.MY_API_KEY
 
 const RightSection = () => {
     const [message, setMessage] = useState('')
